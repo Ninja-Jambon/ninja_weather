@@ -1,0 +1,15 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "Welcome to Chaise Bot's GitHub repository! Chaise Bot is a versatile and powerful chatbot designed to work seamlessly on both Discord and Telegram. Powered by OpenAI's API, the bot provides an interactive and engaging user experience, making it the perfect companion for managing your online communities and having some fun conversations.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.4"
+  }
+}
