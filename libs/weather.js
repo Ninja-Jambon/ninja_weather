@@ -3,7 +3,7 @@ http = require('http');
 
 async function getWeather(city) {
     return new Promise((resolve, reject) => {
-        url = "http://api.weatherapi.com/v1/current.json?key=" + process.env.WEATHERAPIKEY + "&q=" + city
+        url = "http://api.weatherapi.com/v1/current.json?key=" + process.env.WEATHER + "&q=" + city
 
         http.get(url, res => {
             let data = [];

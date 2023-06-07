@@ -1,194 +1,482 @@
 {
     "1000": {
-        "name": "Sunny",
-        "color": "#FFFF00"
+        "day": {
+            "name": "Sunny",
+            "color": "#FFD700"
+        },
+        "night": {
+            "name": "Clear",
+            "color": "#000080"
+        }
     },
     "1003": {
-        "name": "Partly cloudy",
-        "color": "#FFCC66"
+        "day": {
+            "name": "Partly cloudy",
+            "color": "#87CEEB"
+        },
+        "night": {
+            "name": "Partly cloudy",
+            "color": "#000080"
+        }
     },
     "1006": {
-        "name": "Cloudy",
-        "color": "#A0A0A0"
+        "day": {
+            "name": "Cloudy",
+            "color": "#808080"
+        },
+        "night": {
+            "name": "Cloudy",
+            "color": "#808080"
+        }
     },
     "1009": {
-        "name": "Overcast",
-        "color": "#808080"
+        "day": {
+            "name": "Overcast",
+            "color": "#808080"
+        },
+        "night": {
+            "name": "Overcast",
+            "color": "#808080"
+        }
     },
     "1030": {
-        "name": "Mist",
-        "color": "#C0C0C0"
+        "day": {
+            "name": "Mist",
+            "color": "#A9A9A9"
+        },
+        "night": {
+            "name": "Mist",
+            "color": "#A9A9A9"
+        }
     },
     "1063": {
-        "name": "Patchy rain possible",
-        "color": "#8B0000"
+        "day": {
+            "name": "Patchy rain possible",
+            "color": "#1E90FF"
+        },
+        "night": {
+            "name": "Patchy rain possible",
+            "color": "#1E90FF"
+        }
     },
     "1066": {
-        "name": "Patchy snow possible",
-        "color": "#8B8B8B"
+        "day": {
+            "name": "Patchy snow possible",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Patchy snow possible",
+            "color": "#FFFFFF"
+        }
     },
     "1069": {
-        "name": "Patchy sleet possible",
-        "color": "#8B8989"
+        "day": {
+            "name": "Patchy sleet possible",
+            "color": "#C0C0C0"
+        },
+        "night": {
+            "name": "Patchy sleet possible",
+            "color": "#C0C0C0"
+        }
     },
     "1072": {
-        "name": "Patchy freezing drizzle possible",
-        "color": "#8B8682"
+        "day": {
+            "name": "Patchy freezing drizzle possible",
+            "color": "#B0C4DE"
+        },
+        "night": {
+            "name": "Patchy freezing drizzle possible",
+            "color": "#B0C4DE"
+        }
     },
     "1087": {
-        "name": "Thundery outbreaks possible",
-        "color": "#000080"
+        "day": {
+            "name": "Thundery outbreaks possible",
+            "color": "#FFA500"
+        },
+        "night": {
+            "name": "Thundery outbreaks possible",
+            "color": "#FFA500"
+        }
     },
     "1114": {
-        "name": "Blowing snow",
-        "color": "#8B8682"
+        "day": {
+            "name": "Blowing snow",
+            "color": "#E0FFFF"
+        },
+        "night": {
+            "name": "Blowing snow",
+            "color": "#E0FFFF"
+        }
     },
     "1117": {
-        "name": "Blizzard",
-        "color": "#8B8682"
+        "day": {
+            "name": "Blizzard",
+            "color": "#00BFFF"
+        },
+        "night": {
+            "name": "Blizzard",
+            "color": "#00BFFF"
+        }
     },
     "1135": {
-        "name": "Fog",
-        "color": "#A9A9A9"
+        "day": {
+            "name": "Fog",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Fog",
+            "color": "#D3D3D3"
+        }
     },
     "1147": {
-        "name": "Freezing fog",
-        "color": "#A9A9A9"
+        "day": {
+            "name": "Freezing fog",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Freezing fog",
+            "color": "#D3D3D3"
+        }
     },
     "1150": {
-        "name": "Patchy light drizzle",
-        "color": "#B3B3CC"
+        "day": {
+            "name": "Patchy light drizzle",
+            "color": "#ADD8E6"
+        },
+        "night": {
+            "name": "Patchy light drizzle",
+            "color": "#ADD8E6"
+        }
     },
     "1153": {
-        "name": "Light drizzle",
-        "color": "#B3B3CC"
+        "day": {
+            "name": "Light drizzle",
+            "color": "#ADD8E6"
+        },
+        "night": {
+            "name": "Light drizzle",
+            "color": "#ADD8E6"
+        }
     },
     "1168": {
-        "name": "Freezing drizzle",
-        "color": "#B3B3CC"
+        "day": {
+            "name": "Freezing drizzle",
+            "color": "#B0C4DE"
+        },
+        "night": {
+            "name": "Freezing drizzle",
+            "color": "#B0C4DE"
+        }
     },
     "1171": {
-        "name": "Heavy freezing drizzle",
-        "color": "#B3B3CC"
+        "day": {
+            "name": "Heavy freezing drizzle",
+            "color": "#B0C4DE"
+        },
+        "night": {
+            "name": "Heavy freezing drizzle",
+            "color": "#B0C4DE"
+        }
     },
     "1180": {
-        "name": "Patchy light rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Patchy light rain",
+            "color": "#87CEFA"
+        },
+        "night": {
+            "name": "Patchy light rain",
+            "color": "#87CEFA"
+        }
     },
     "1183": {
-        "name": "Light rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light rain",
+            "color": "#87CEFA"
+        },
+        "night": {
+            "name": "Light rain",
+            "color": "#87CEFA"
+        }
     },
     "1186": {
-        "name": "Moderate rain at times",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate rain at times",
+            "color": "#6495ED"
+        },
+        "night": {
+            "name": "Moderate rain at times",
+            "color": "#6495ED"
+        }
     },
     "1189": {
-        "name": "Moderate rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate rain",
+            "color": "#6495ED"
+        },
+        "night": {
+            "name": "Moderate rain",
+            "color": "#6495ED"
+        }
     },
     "1192": {
-        "name": "Heavy rain at times",
-        "color": "#6495ED"
+        "day": {
+            "name": "Heavy rain at times",
+            "color": "#4169E1"
+        },
+        "night": {
+            "name": "Heavy rain at times",
+            "color": "#4169E1"
+        }
     },
     "1195": {
-        "name": "Heavy rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Heavy rain",
+            "color": "#4169E1"
+        },
+        "night": {
+            "name": "Heavy rain",
+            "color": "#4169E1"
+        }
     },
     "1198": {
-        "name": "Light freezing rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light freezing rain",
+            "color": "#AFEEEE"
+        },
+        "night": {
+            "name": "Light freezing rain",
+            "color": "#AFEEEE"
+        }
     },
     "1201": {
-        "name": "Moderate or heavy freezing rain",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate or heavy freezing rain",
+            "color": "#AFEEEE"
+        },
+        "night": {
+            "name": "Moderate or heavy freezing rain",
+            "color": "#AFEEEE"
+        }
     },
     "1204": {
-        "name": "Light sleet",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light sleet",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Light sleet",
+            "color": "#FFFFFF"
+        }
     },
     "1207": {
-        "name": "Moderate or heavy sleet",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate or heavy sleet",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Moderate or heavy sleet",
+            "color": "#FFFFFF"
+        }
     },
     "1210": {
-        "name": "Patchy light snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Patchy light snow",
+            "color": "#F5F5F5"
+        },
+        "night": {
+            "name": "Patchy light snow",
+            "color": "#F5F5F5"
+        }
     },
     "1213": {
-        "name": "Light snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Light snow",
+            "color": "#F5F5F5"
+        },
+        "night": {
+            "name": "Light snow",
+            "color": "#F5F5F5"
+        }
     },
     "1216": {
-        "name": "Patchy moderate snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Patchy moderate snow",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Patchy moderate snow",
+            "color": "#D3D3D3"
+        }
     },
     "1219": {
-        "name": "Moderate snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Moderate snow",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Moderate snow",
+            "color": "#D3D3D3"
+        }
     },
     "1222": {
-        "name": "Patchy heavy snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Patchy heavy snow",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Patchy heavy snow",
+            "color": "#FFFFFF"
+        }
     },
     "1225": {
-        "name": "Heavy snow",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Heavy snow",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Heavy snow",
+            "color": "#FFFFFF"
+        }
     },
     "1237": {
-        "name": "Ice pellets",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Ice pellets",
+            "color": "#AFEEEE"
+        },
+        "night": {
+            "name": "Ice pellets",
+            "color": "#AFEEEE"
+        }
     },
     "1240": {
-        "name": "Light rain shower",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light rain shower",
+            "color": "#6495ED"
+        },
+        "night": {
+            "name": "Light rain shower",
+            "color": "#6495ED"
+        }
     },
     "1243": {
-        "name": "Moderate or heavy rain shower",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate or heavy rain shower",
+            "color": "#4169E1"
+        },
+        "night": {
+            "name": "Moderate or heavy rain shower",
+            "color": "#4169E1"
+        }
     },
     "1246": {
-        "name": "Torrential rain shower",
-        "color": "#6495ED"
+        "day": {
+            "name": "Torrential rain shower",
+            "color": "#4169E1"
+        },
+        "night": {
+            "name": "Torrential rain shower",
+            "color": "#4169E1"
+        }
     },
     "1249": {
-        "name": "Light sleet showers",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light sleet showers",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Light sleet showers",
+            "color": "#FFFFFF"
+        }
     },
     "1252": {
-        "name": "Moderate or heavy sleet showers",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate or heavy sleet showers",
+            "color": "#FFFFFF"
+        },
+        "night": {
+            "name": "Moderate or heavy sleet showers",
+            "color": "#FFFFFF"
+        }
     },
     "1255": {
-        "name": "Light snow showers",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Light snow showers",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Light snow showers",
+            "color": "#D3D3D3"
+        }
     },
     "1258": {
-        "name": "Moderate or heavy snow showers",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Moderate or heavy snow showers",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Moderate or heavy snow showers",
+            "color": "#D3D3D3"
+        }
     },
     "1261": {
-        "name": "Light showers of ice pellets",
-        "color": "#6495ED"
+        "day": {
+            "name": "Light showers of ice pellets",
+            "color": "#AFEEEE"
+        },
+        "night": {
+            "name": "Light showers of ice pellets",
+            "color": "#AFEEEE"
+        }
     },
     "1264": {
-        "name": "Moderate or heavy showers of ice pellets",
-        "color": "#6495ED"
+        "day": {
+            "name": "Moderate or heavy showers of ice pellets",
+            "color": "#AFEEEE"
+        },
+        "night": {
+            "name": "Moderate or heavy showers of ice pellets",
+            "color": "#AFEEEE"
+        }
     },
     "1273": {
-        "name": "Patchy light rain with thunder",
-        "color": "#FF0000"
+        "day": {
+            "name": "Patchy light rain with thunder",
+            "color": "#FFA500"
+        },
+        "night": {
+            "name": "Patchy light rain with thunder",
+            "color": "#FFA500"
+        }
     },
     "1276": {
-        "name": "Moderate or heavy rain with thunder",
-        "color": "#FF0000"
+        "day": {
+            "name": "Moderate or heavy rain with thunder",
+            "color": "#FF4500"
+        },
+        "night": {
+            "name": "Moderate or heavy rain with thunder",
+            "color": "#FF4500"
+        }
     },
     "1279": {
-        "name": "Patchy light snow with thunder",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Patchy light snow with thunder",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Patchy light snow with thunder",
+            "color": "#D3D3D3"
+        }
     },
     "1282": {
-        "name": "Moderate or heavy snow with thunder",
-        "color": "#FFFFFF"
+        "day": {
+            "name": "Moderate or heavy snow with thunder",
+            "color": "#D3D3D3"
+        },
+        "night": {
+            "name": "Moderate or heavy snow with thunder",
+            "color": "#D3D3D3"
+        }
     }
 }

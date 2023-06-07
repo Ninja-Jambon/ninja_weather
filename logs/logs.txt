@@ -88,3 +88,4 @@ Error: ER_NO_SUCH_TABLE: Table 'discord.db' doesn't exist
 [Discord] Sent answer to : improve this description : If you're in search of an affordable and straightforward Discord bot that utilizes APIs or databases, look no further! This is the perfect solution tailored for your needs. However, please bear in mind that the provided delivery times are only estimates, as this is my debut offering of services. As such, I cannot guarantee the exact duration required to complete your bot. Nonetheless, you can trust that I will strive to deliver an efficient and high-quality product.    If you want to take a look at my existing project, you can join this discord server to test my discord bot that is using openAi API : https://discord.gg/kgEMXBrxyj or you can take a look at my github profile : https://github.com/Ninja-Jambon
 [Discord] Quota requested by Ninja_Jambon
 [Discord] Quota requested by Ninja_Jambon
+--> Sent weather for New York to Ninja_Jambon#0001

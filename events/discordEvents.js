@@ -1,6 +1,8 @@
 const discord = require('discord.js');
 const commands = require('../commands/commands');
 
+require('dotenv').config();
+
 const getweather = require('../functions/getweather');
 
 module.exports = {
@@ -22,8 +24,8 @@ module.exports = {
 
     ready: (client) => {
         client.on('ready', () => {
-            console.log(`[Discord] Logged in as ${client.user.tag} !`);
-            //client.user.setPresence({ activities: [{ name: 'la belle chaise', type: 3 }] });
+            console.log(`--> Logged in as ${client.user.tag} !`);
+            client.user.setPresence({ activities: [{ name: 'weather forecast', type: 3 }] });
 
             const rest = new discord.REST({ version: '10' }).setToken(process.env.DISCORD);
 
@@ -34,7 +36,7 @@ module.exports = {
                         { body: commands },
                     );
 
-                    console.log('[Discord] Successfully reloaded application (/) commands for ' + guild.name + '.');
+                    console.log('--> Successfully reloaded application (/) commands for ' + guild.name + '.');
                 } catch (error) {
                     console.error(error);
                 }
@@ -52,7 +54,7 @@ module.exports = {
                     { body: commands },
                 );
 
-                console.log('[Discord] Successfully reloaded application (/) commands for ' + guild.name + '.');
+                console.log('--> Successfully reloaded application (/) commands for ' + guild.name + '.');
             } catch (error) {
                 console.error(error);
             }

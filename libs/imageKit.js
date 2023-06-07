@@ -1,8 +1,9 @@
 ImageKit = require("imagekit");
+require('dotenv').config();
 
 var imagekit = new ImageKit({
     publicKey: "public_sE0aGOiHRxkULOzsVf88/8jz4MU=",
-    privateKey: "private_9pMD1GBVp3tml0+zLhu+dbxz3I0=",
+    privateKey: process.env.IMAGEKIT,
     urlEndpoint: "https://ik.imagekit.io/5unycwb22/"
 });
 
