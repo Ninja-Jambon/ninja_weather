@@ -1,0 +1,194 @@
+{
+    "1000": {
+        "name": "Sunny",
+        "color": "#FFFF00"
+    },
+    "1003": {
+        "name": "Partly cloudy",
+        "color": "#FFCC66"
+    },
+    "1006": {
+        "name": "Cloudy",
+        "color": "#A0A0A0"
+    },
+    "1009": {
+        "name": "Overcast",
+        "color": "#808080"
+    },
+    "1030": {
+        "name": "Mist",
+        "color": "#C0C0C0"
+    },
+    "1063": {
+        "name": "Patchy rain possible",
+        "color": "#8B0000"
+    },
+    "1066": {
+        "name": "Patchy snow possible",
+        "color": "#8B8B8B"
+    },
+    "1069": {
+        "name": "Patchy sleet possible",
+        "color": "#8B8989"
+    },
+    "1072": {
+        "name": "Patchy freezing drizzle possible",
+        "color": "#8B8682"
+    },
+    "1087": {
+        "name": "Thundery outbreaks possible",
+        "color": "#000080"
+    },
+    "1114": {
+        "name": "Blowing snow",
+        "color": "#8B8682"
+    },
+    "1117": {
+        "name": "Blizzard",
+        "color": "#8B8682"
+    },
+    "1135": {
+        "name": "Fog",
+        "color": "#A9A9A9"
+    },
+    "1147": {
+        "name": "Freezing fog",
+        "color": "#A9A9A9"
+    },
+    "1150": {
+        "name": "Patchy light drizzle",
+        "color": "#B3B3CC"
+    },
+    "1153": {
+        "name": "Light drizzle",
+        "color": "#B3B3CC"
+    },
+    "1168": {
+        "name": "Freezing drizzle",
+        "color": "#B3B3CC"
+    },
+    "1171": {
+        "name": "Heavy freezing drizzle",
+        "color": "#B3B3CC"
+    },
+    "1180": {
+        "name": "Patchy light rain",
+        "color": "#6495ED"
+    },
+    "1183": {
+        "name": "Light rain",
+        "color": "#6495ED"
+    },
+    "1186": {
+        "name": "Moderate rain at times",
+        "color": "#6495ED"
+    },
+    "1189": {
+        "name": "Moderate rain",
+        "color": "#6495ED"
+    },
+    "1192": {
+        "name": "Heavy rain at times",
+        "color": "#6495ED"
+    },
+    "1195": {
+        "name": "Heavy rain",
+        "color": "#6495ED"
+    },
+    "1198": {
+        "name": "Light freezing rain",
+        "color": "#6495ED"
+    },
+    "1201": {
+        "name": "Moderate or heavy freezing rain",
+        "color": "#6495ED"
+    },
+    "1204": {
+        "name": "Light sleet",
+        "color": "#6495ED"
+    },
+    "1207": {
+        "name": "Moderate or heavy sleet",
+        "color": "#6495ED"
+    },
+    "1210": {
+        "name": "Patchy light snow",
+        "color": "#FFFFFF"
+    },
+    "1213": {
+        "name": "Light snow",
+        "color": "#FFFFFF"
+    },
+    "1216": {
+        "name": "Patchy moderate snow",
+        "color": "#FFFFFF"
+    },
+    "1219": {
+        "name": "Moderate snow",
+        "color": "#FFFFFF"
+    },
+    "1222": {
+        "name": "Patchy heavy snow",
+        "color": "#FFFFFF"
+    },
+    "1225": {
+        "name": "Heavy snow",
+        "color": "#FFFFFF"
+    },
+    "1237": {
+        "name": "Ice pellets",
+        "color": "#FFFFFF"
+    },
+    "1240": {
+        "name": "Light rain shower",
+        "color": "#6495ED"
+    },
+    "1243": {
+        "name": "Moderate or heavy rain shower",
+        "color": "#6495ED"
+    },
+    "1246": {
+        "name": "Torrential rain shower",
+        "color": "#6495ED"
+    },
+    "1249": {
+        "name": "Light sleet showers",
+        "color": "#6495ED"
+    },
+    "1252": {
+        "name": "Moderate or heavy sleet showers",
+        "color": "#6495ED"
+    },
+    "1255": {
+        "name": "Light snow showers",
+        "color": "#FFFFFF"
+    },
+    "1258": {
+        "name": "Moderate or heavy snow showers",
+        "color": "#FFFFFF"
+    },
+    "1261": {
+        "name": "Light showers of ice pellets",
+        "color": "#6495ED"
+    },
+    "1264": {
+        "name": "Moderate or heavy showers of ice pellets",
+        "color": "#6495ED"
+    },
+    "1273": {
+        "name": "Patchy light rain with thunder",
+        "color": "#FF0000"
+    },
+    "1276": {
+        "name": "Moderate or heavy rain with thunder",
+        "color": "#FF0000"
+    },
+    "1279": {
+        "name": "Patchy light snow with thunder",
+        "color": "#FFFFFF"
+    },
+    "1282": {
+        "name": "Moderate or heavy snow with thunder",
+        "color": "#FFFFFF"
+    }
+}

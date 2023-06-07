@@ -1,6 +1,8 @@
 const discord = require('discord.js');
 const commands = require('../commands/commands');
 
+const getweather = require('../functions/getweather');
+
 module.exports = {
     newMessage: (client) => {
         client.on('messageCreate', async msg => {
@@ -10,6 +12,11 @@ module.exports = {
 
     newInteraction: (client) => {
         client.on('interactionCreate', async interaction => {
+            if (!interaction.isCommand()) return;
+
+            if (interaction.commandName === 'getweather') {
+                getweather(interaction, client);
+            }
         });
     },
 
